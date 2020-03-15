@@ -1,0 +1,14 @@
+{
+  "name": "zoovu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "testcafe chrome specs/*.test.* -e"
+  },
+  "author": "Vitalii Pylypets",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.2"
+  }
+}
