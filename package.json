@@ -9,6 +9,6 @@
   "author": "Vitalii Pylypets",
   "license": "ISC",
   "dependencies": {
-    "testcafe": "^1.8.2"
+    "testcafe": "^1.20.1"
   }
 }
